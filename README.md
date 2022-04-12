@@ -1,4 +1,4 @@
-# Data-Science-Project-portfolio
+# Analytics-Project-portfolio
 
 Repository containing portfolio of data science projects completed by me for academic and self learning purposes. Presented in the form of iPython Notebooks/codes. I did some of the projects in Kaggle. So,for such projects kaggle link has been provided.
 
