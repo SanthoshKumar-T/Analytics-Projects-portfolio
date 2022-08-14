@@ -20,6 +20,6 @@ Repository containing portfolio of data science projects completed by me for aca
    
    
 ## Data Visualization - Dashboards
-- [Marketing campaign result - Power BI] (https://github.com/SanthoshKumar-T/Marketing_Campaign_dashboard): The goal of this project is to create a dashboards for Marketing campaign results 
+- [Marketing campaign result - Power BI](https://github.com/SanthoshKumar-T/Marketing_Campaign_dashboard): The goal of this project is to create a dashboards for Marketing campaign results 
 
   
