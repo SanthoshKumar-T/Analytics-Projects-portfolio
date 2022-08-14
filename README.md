@@ -17,5 +17,9 @@ Repository containing portfolio of data science projects completed by me for aca
    - [Walmart Retail Analysis (Kaggle)](https://www.kaggle.com/santhoshtsk/walmart-data-analysis-and-prediction): The objective of this project is to analyze walmart retail data and to build a predictive model to predict weekly sales of all of its stores
    - [Ecommerce shipping data analysis (Kaggle)](https://www.kaggle.com/santhoshtsk/ecommerce-shipping-eda-prediction): The objective of this project is to analyze the ecommerce shipping data to identify trends and predict whether the product has been delivered on time or not
    - [Customer segmentation - Credit Card Dataset](https://github.com/SanthoshKumar-T/Customer_Segmentation_Credit_Card): The goal of this project is to segment the customers based on similarities in order to define marketing strategies accordingly and provide personalized communication
+   
+   
+## Data Visualization - Dashboards
+- [Marketing campaign result - Power BI] (https://github.com/SanthoshKumar-T/Marketing_Campaign_dashboard): The goal of this project is to create a dashboards for Marketing campaign results 
 
   
